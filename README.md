@@ -1,2 +1,3 @@
-# Lautaro-Madro-al
-a
+# Lautaro-Madroñal
+##Estudiante de Ingenieria Electronica
+Tecnico Electronico
